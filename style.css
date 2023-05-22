@@ -1,13 +1,43 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
 
-a {
-  color: orange;
+#webflow {
+  padding: 100px 0;
 }
-
-a:hover {
-  color: black;
+#webflow .box {
+  background-color: #92a740;
+  width: 250px;
+  border-radius: 20px;
+  padding: 50px;
 }
-/*# sourceMappingURL=style.css.map */
+#webflow .box h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin-bottom: 60px;
+  color: white;
+}
+#webflow .box input {
+  border: 2px solid #bdbaba;
+  margin-bottom: 70px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 10px;
+}
+#webflow .box .btn {
+  border: 3px solid #bccf84;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+#webflow .box .btn h3 {
+  cursor: pointer;
+}
+#webflow .minibox {
+  width: 200px;
+  margin-top: 20px;
+  background-color: white;
+  border-radius: 5px;
+  text-align: center;
+}/*# sourceMappingURL=style.css.map */
