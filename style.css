@@ -7,37 +7,35 @@ body {
   padding: 100px 0;
 }
 #webflow .box {
-  background-color: #92a740;
-  width: 250px;
+  background-color: #fe503d;
+  width: 400px;
   border-radius: 20px;
   padding: 50px;
 }
 #webflow .box h1 {
   font-weight: 700;
-  font-size: 50px;
-  margin-bottom: 60px;
+  font-size: 40px;
+  margin-bottom: 50px;
   color: white;
 }
 #webflow .box input {
-  border: 2px solid #bdbaba;
-  margin-bottom: 70px;
+  border: 1px solid #fe0707;
   height: 55px;
   font-size: 20px;
   border-radius: 10px;
 }
 #webflow .box .btn {
-  border: 3px solid #bccf84;
+  border: 2px solid #fe0707;
   border-radius: 10px;
-  cursor: pointer;
+  width: 100px;
+  margin: 40px 0;
   background-color: white;
 }
 #webflow .box .btn h3 {
   cursor: pointer;
 }
 #webflow .minibox {
-  width: 200px;
-  margin-top: 20px;
-  background-color: white;
-  border-radius: 5px;
-  text-align: center;
+  padding: 40px;
+  font-size: 25px;
+  color: #fe0707;
 }/*# sourceMappingURL=style.css.map */
