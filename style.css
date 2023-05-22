@@ -31,9 +31,6 @@ body {
   margin: 40px 0;
   background-color: white;
 }
-#webflow .box .btn h3 {
-  cursor: pointer;
-}
 #webflow .minibox {
   padding: 40px;
   font-size: 25px;
